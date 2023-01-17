@@ -23,7 +23,7 @@
   <a href = "mailto:@Guilh3rme82@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-augusto-lopes-rafael-949151138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Guilh3rme82/Guilh3rme82
-  /blob/output/github-contribution-grid-snake.svg)
+ [Snake animation](https://github.com/guilh3rme82/guilh3rme82/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
